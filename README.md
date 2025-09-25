@@ -1,3 +1,6 @@
+# 1) Descompactar dataset
+Acessar diretório "data" e descompactar arquivo "amazon_snap.zip"
+
 # 1) Construir e subir os serviços
 docker compose up -d --build
 
