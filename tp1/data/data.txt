@@ -1,0 +1,2 @@
+Arquivo para garantir que data apareça nos diretórios do git
+
